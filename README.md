@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Chirag020105/DAA_Assignment-leetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Chirag020105/DAA_Assignment-leetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Chirag020105/DAA_Assignment-leetCode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Chirag020105/DAA_Assignment-leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Chirag020105/DAA_Assignment-leetCode/tree/master/0162-find-peak-element) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Chirag020105/DAA_Assignment-leetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Chirag020105/DAA_Assignment-leetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Chirag020105/DAA_Assignment-leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Chirag020105/DAA_Assignment-leetCode/tree/master/0162-find-peak-element) |
 ## Matrix
